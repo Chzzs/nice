@@ -1,2 +1,2 @@
-# nice
-nice webkit canvas wallpaper
+# Nice
+Nice webkit canvas wallpaper.
